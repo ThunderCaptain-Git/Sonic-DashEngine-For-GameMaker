@@ -18,5 +18,7 @@ Sonic DashEngine, the latest Sonic game development framework for GameMaker Stud
 #### You should use DashEngine if you have GameMaker Studio 2 and you want all the features that GameMaker Studio 2 has to offer but with the ease of making your own Sonic The Hedgehog fan game with the amount of tools built into the software. While DashEngine is not the best of Sonic The Hedgehog Frameworks for GameMaker Studio 2; not by a long shot; it can get the job done for anything that you might need to do in a Sonic The Hedgehog fan game.
 
 ## Installation
+![install](https://user-images.githubusercontent.com/74676982/156259102-e83c692d-17c0-404a-aa16-2bc6c9ec1b80.png)
 
 ### Step 1
+#### To be able to use this game development framework you need **GameMaker Studio 2** as the "**.yyc**" is only compatible with GameMaker Studio 2. If you want to learn more about how you can **install GameMaker Studio 2**; please go to YoYo Games' website or Discord server ( to learn more.
