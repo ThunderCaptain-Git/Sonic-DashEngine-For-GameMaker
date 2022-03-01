@@ -20,5 +20,5 @@ Sonic DashEngine, the latest Sonic game development framework for GameMaker Stud
 ## Installation
 ![install](https://user-images.githubusercontent.com/74676982/156259102-e83c692d-17c0-404a-aa16-2bc6c9ec1b80.png)
 
-### Step 1
-#### To be able to use this game development framework you need **GameMaker Studio 2** as the "**.yyc**" is only compatible with GameMaker Studio 2. If you want to learn more about how you can **install GameMaker Studio 2**; please go to YoYo Games' website or Discord server ~~("https://discord.gg/gamemaker")~~ to learn more.
+### + Step 1
+#### To be able to use this game development framework you need **GameMaker Studio 2** as the "**.yyc**" is only compatible with GameMaker Studio 2. If you want to learn more about how you can **install GameMaker Studio 2**; please go to YoYo Games' website ~~("https://www.yoyogames.com/en")~~ or Discord server ~~("https://discord.gg/gamemaker")~~ to learn more.
