@@ -1,4 +1,5 @@
-# Sonic Dash Engine for GameMaker Studio 2
+# Sonic Dash Engine for GameMaker Legacy and GameMaker Studio 
+*GameMaker Legacy is GameMaker 8.1 or lower and GameMaker Studio is anything modern (I.E GameMaker Studio and Studio 2 or better).*
 
 Sonic DashEngine, the latest Sonic game development framework for GameMaker Studio: X.
 
