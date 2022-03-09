@@ -14,7 +14,7 @@ Sonic DashEngine, the latest Sonic game development framework for GameMaker.
 ## Why
 ![why](https://user-images.githubusercontent.com/74676982/156258071-a8818088-a699-4d64-9bbe-cf1252624104.png)
 
-### Now that you have an idea of what DashEngine is and what it can do now lets get onto why you would want to use this Sonic The Hedgehog game development framework over others like Sonic Max, [Flicky 8](https://gamejolt.com/games/Flicky8Engine/458377), or Sonic Studio Engine, or [Pvic's Gmate Delta](https://gamejolt.com/games/gmate_delta/350586). 
+### Now that you have an idea of what DashEngine is and what it can do now lets get onto why you would want to use this Sonic The Hedgehog game development framework over others like [Sonic Max](https://www.sonicfangameshq.com/forums/showcase/sonic-max.25/), [Flicky 8](https://gamejolt.com/games/Flicky8Engine/458377), or Sonic Studio Engine [GM8](https://sites.google.com/view/sonichelpzone/gml-sonic-engines#h.lzp02hlwqeci) [GMS+](https://sites.google.com/view/sonichelpzone/gml-sonic-engines#h.c2su20oym5bx), or [Pvic's Gmate Delta](https://gamejolt.com/games/gmate_delta/350586). 
 
 #### You should use DashEngine if you have GameMaker Studio 2 and you want all the features that GameMaker Studio 2 has to offer but with the ease of making your own Sonic The Hedgehog fan game with the amount of tools built into the software. While DashEngine is not the best of Sonic The Hedgehog Frameworks for GameMaker Studio 2; not by a long shot; it can get the job done for anything that you might need to do in a Sonic The Hedgehog fan game.
 
