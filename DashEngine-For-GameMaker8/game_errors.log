@@ -1,9 +1,9 @@
-ERROR in
+FATAL ERROR in
 action number 2
-of Other Event: Room Start
-for object oManager:
+of End Step Event
+for object oCamera:
 
-Error in code at line 14:   
-    current_time = 0;       ^at position 6: Cannot assign to the variable
+COMPILATION ERROR in code actionError in code at line 103:   
+};   ^at position 2: Unexpected symbol in expression.
 
 
