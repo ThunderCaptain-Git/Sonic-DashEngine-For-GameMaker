@@ -1,8 +1,9 @@
 ERROR in
-action number 4
-of Other Event: Game Start
+action number 2
+of Other Event: Room Start
 for object oManager:
 
-INI files must be located in the same directory as the program
+Error in code at line 14:   
+    current_time = 0;       ^at position 6: Cannot assign to the variable
 
 
