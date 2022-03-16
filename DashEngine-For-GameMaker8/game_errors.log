@@ -1,9 +1,0 @@
-FATAL ERROR in
-action number 2
-of End Step Event
-for object oCamera:
-
-COMPILATION ERROR in code actionError in code at line 103:   
-};   ^at position 2: Unexpected symbol in expression.
-
-
